@@ -1,0 +1,27 @@
+{
+  "name": "api-captcha",
+  "version": "1.0.0",
+  "description": "图形验证码接口",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "svg-captcha": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaozhixing/api-captcha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaozhixing/api-captcha/issues"
+  },
+  "homepage": "https://github.com/yaozhixing/api-captcha#readme"
+}
